@@ -1,0 +1,2 @@
+B101,Python Programming,Amit,True
+B102,Data Structures,Priya,True
